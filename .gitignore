@@ -1,0 +1,18 @@
+# --- Unreal ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# --- IDE e strumenti locali ---
+.vs/
+.vscode/
+.idea/
+*.sln
+*.code-workspace
+*.VC.db
+*.suo
+compile_commands.json
+.cache/
